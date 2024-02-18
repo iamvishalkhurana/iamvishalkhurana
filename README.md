@@ -22,14 +22,11 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="
-https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="css3 logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="
-https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="python logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
   <img width="12" />
-  <img src="
-https://github.com/devicons/devicon/blob/v2.16.0/icons/threejs/threejs-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
 </div>
 
 ###
