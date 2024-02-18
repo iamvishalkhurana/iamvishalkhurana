@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Vishal Khurana and I'm a Web Developer, from Rajasthan, India</h2>
+<h2 align="left">Hi 👋! My name is Vishal Khurana and I'm a Web Developer, from India</h2>
 
 ###
 
@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
