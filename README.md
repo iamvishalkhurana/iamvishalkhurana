@@ -3,7 +3,10 @@
 ###
 
 <div align="center">
-  
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=iamvishalkhurana&date_format=M%20j%5B%2C%20Y%5D&theme=github_dark&hide_border=true" width="100%" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamvishalkhurana&theme=github_dark" width="100%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvishalkhurana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
