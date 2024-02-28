@@ -7,7 +7,7 @@
 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamvishalkhurana&theme=github_dark" height="150" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvishalkhurana&theme=github_dark"&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&hide_border=false" height="150" alt="languages graph" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamvishalkhurana&theme=github_dark&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=5&hide_border=false" height="150" alt="languages graph" width="50%" />
 </div>
 
 
